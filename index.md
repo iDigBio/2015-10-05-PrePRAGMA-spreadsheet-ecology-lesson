@@ -7,7 +7,7 @@ maintainers: ["Aleksandra Pawlik", "Tracy Teal"]
 domain: Ecology
 topic: Spreadsheets
 software: Spreadsheets
-dataurl: https://www.dropbox.com/s/5ncuacnd3arjitc/survey_data_tabs.xls?dl=0
+dataurl: https://github.com/iDigBio/2015-09-23-TDWG-spreadsheet-ecology-lesson/raw/gh-pages/data/biology/survey_data_tabs.xls
 status: Teaching
 ---
 
